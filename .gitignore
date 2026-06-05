@@ -1,0 +1,8 @@
+.venv312/
+__pycache__/
+*.pyc
+*.zip
+rl_output/
+videos/
+tb_logs/
+test_results.json
